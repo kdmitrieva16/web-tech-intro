@@ -1,0 +1,28 @@
+h1{
+    color:#fd4e22;
+}
+
+h2{
+    color:#0b99f8;
+}
+
+html {
+    background-color: #7fffd4;
+}
+
+img{
+    width:200px;
+}
+
+.big_text{
+    font-size: 1,5rem;
+    font-weight: bolder;
+    font-style: italic;
+}
+ul{
+    list-style-type: square;
+}
+
+a:hover{ 
+    color: #fc7aef;
+}
